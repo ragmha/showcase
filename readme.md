@@ -22,6 +22,7 @@
 
 * [slappyFwift](https://github.com/ragmha/slappyfwift) - Flappy Bird clone
 
+* [swift-calculator](https://github.com/ragmha/swift-calculator) - Simple Calculator
 
 ----
 ----
