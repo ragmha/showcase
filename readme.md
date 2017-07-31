@@ -37,6 +37,7 @@
 
 * [abayaholic](https://github.com/ragmha/abayaholic/tree/source) - portfolio website
 
+* [duck-hunt](https://ragmha.github.io/duck-hunt/) - Hunting Ducks
 
 * [catch-a-movie](https://github.com/ragmha/catch-a-movie) - List of latest movies
 
