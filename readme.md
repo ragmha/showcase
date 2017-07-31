@@ -67,7 +67,6 @@
 ----
 
 ## React
-----
 
 * [raghibm](https://github.com/ragmha/raghibm/tree/source)- personal website
 
@@ -111,11 +110,15 @@ Create & Delete posts with firebase & thunks
 
 * [hey!](https://github.com/ragmha/hey) - Simple chat app
 
+## React-Reflux
+
+* [imgur](https://github.com/ragmha/imgur) - Imgur browser client
+
 ----
 ----
 
 ## React-Native
-___
+
 * [rn-calculator](https://github.com/ragmha/rn-calculator) - Simple Calculator
 
 ## React-Native-GraphQL
