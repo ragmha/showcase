@@ -107,6 +107,10 @@ Create & Delete posts with firebase & thunks
 ## React-Redux-Elixir
 * [rlack](https://github.com/ragmha/rlack) - chat application
 
+## React-Alt-Firebase
+
+* [hey!](https://github.com/ragmha/hey) - Simple chat app
+
 ----
 ----
 
