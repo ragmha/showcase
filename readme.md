@@ -6,6 +6,8 @@
 
 * [geo-quiz](https://github.com/ragmha/geo-quiz) - Quiz App
 
+* [randomizer](https://github.com/ragmha/randomizer) - Randomizer TSA app
+
 ## C
 * [Wumpus](https://github.com/ragmha/wumpus) - Hunt the wumpus 
 
