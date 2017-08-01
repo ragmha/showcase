@@ -75,6 +75,8 @@
 
 * [tube-search](https://github.com/ragmha/tube-search) - youtube search 
 
+* [dashboard](https://github.com/ragmha/dashboard) - personal dashboard
+
 ## React-Redux
 
 * [book-list](https://github.com/ragmha/book-list) - Book list
