@@ -1,7 +1,10 @@
 # 🔭 Showcase
 
 ## Android
+
 * [birthday-app](https://github.com/ragmha/birthday-app) - Birthday App
+
+* [geo-quiz](https://github.com/ragmha/geo-quiz) - Quiz App
 
 ## C
 * [Wumpus](https://github.com/ragmha/wumpus) - Hunt the wumpus 
