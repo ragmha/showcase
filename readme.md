@@ -11,6 +11,13 @@
 ----
 ----
 
+## CPP
+
+* [student-db](https://github.com/ragmha/student-db) - Simple CRUD
+
+----
+----
+
 ## Lua
 * [flappy-jet](https://github.com/ragmha/flappy-jet) - 2D slide scroller game
 
