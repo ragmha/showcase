@@ -13,6 +13,8 @@
 
 * [Deck](https://github.com/ragmha/deck) - Shuffling Cards
 
+* [snake](https://github.com/ragmha/snake) - Snake game
+
 ----
 ----
 
