@@ -66,6 +66,7 @@
 
 ## Angular
 ----
+* [ng2-reddit](https://github.com/ragmha/ng2-reddit) - Reddit clone
 
 ## Ionic
 * [Minder](https://github.com/ragmha/wumpus)
