@@ -66,7 +66,10 @@
 
 ## Angular
 ----
+
 * [ng2-reddit](https://github.com/ragmha/ng2-reddit) - Reddit clone
+
+* [ngtube-search](https://github.com/ragmha/ngtube-search) - Youtube search
 
 ## Ionic
 * [Minder](https://github.com/ragmha/wumpus)
@@ -84,29 +87,29 @@
 
 ## React
 
-* [raghibm](https://github.com/ragmha/raghibm/tree/source)- personal website
+* [raghibm](https://github.com/ragmha/raghibm/tree/source)- Personal website
 
-* [card-dealer](https://github.com/ragmha/card-dealer) - dealing card
+* [card-dealer](https://github.com/ragmha/card-dealer) - Dealing card
 
-* [tube-search](https://github.com/ragmha/tube-search) - youtube search 
+* [tube-search](https://github.com/ragmha/tube-search) - Youtube search 
 
-* [dashboard](https://github.com/ragmha/dashboard) - personal dashboard
+* [dashboard](https://github.com/ragmha/dashboard) - Personal dashboard
 
-* [product-hunt](https://github.com/ragmha/product-hunt) - product hunt clone
+* [product-hunt](https://github.com/ragmha/product-hunt) - Product hunt clone
 
 ## React-Redux
 
 * [book-list](https://github.com/ragmha/book-list) - Book list
 
-* [weather-search](https://github.com/ragmha/weather-search) - weather search
+* [weather-search](https://github.com/ragmha/weather-search) - Weather search
 
-* [blog](https://github.com/ragmha/blog) - tiny blog
+* [blog](https://github.com/ragmha/blog) - Tiny blog
 
 ## React-Redux-Thunk
 
-* [admin](https://github.com/ragmha/admin) - simple course adminstrator
+* [admin](https://github.com/ragmha/admin) - Simple course adminstrator
 
-* [users](https://github.com/ragmha/users) - loading users with thunks
+* [users](https://github.com/ragmha/users) - Loading users with thunks
 
 * [posts](https://github.com/ragmha/posts) - 
 Create & Delete posts with firebase & thunks
@@ -124,7 +127,7 @@ Create & Delete posts with firebase & thunks
 * [photos](https://github.com/ragmha/photos) - Displaying photo using react-router
 
 ## React-Redux-Elixir
-* [rlack](https://github.com/ragmha/rlack) - chat application
+* [rlack](https://github.com/ragmha/rlack) - Chat application
 
 ## React-Alt-Firebase
 
@@ -137,7 +140,6 @@ Create & Delete posts with firebase & thunks
 ## React-Firebase
 
 * [react-firebase-todo](https://github.com/ragmha/react-firebase-todo) - Simple Todo
-
 
 
 ----
@@ -156,7 +158,7 @@ Create & Delete posts with firebase & thunks
 
 * [mk-characters](https://github.com/ragmha/mk-characters) - Get Mortal Kombat character names
 
-* [weather-station](https://github.com/ragmha/weather-station) - weather station connected to azure
+* [weather-station](https://github.com/ragmha/weather-station) - Weather station connected to azure
 
 ----
 ----
