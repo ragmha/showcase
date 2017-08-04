@@ -71,6 +71,8 @@
 
 * [ngtube-search](https://github.com/ragmha/ngtube-search) - Youtube search
 
+* [wiki-search](https://github.com/ragmha/wiki-search) - Wiki search
+
 ## Ionic
 * [Minder](https://github.com/ragmha/wumpus)
 
