@@ -53,6 +53,8 @@
 
 * [duck-hunt](https://ragmha.github.io/duck-hunt/) - Hunting Ducks
 
+* [snake](https://ragmha.github.io/duck-hunt/) - Snake Game
+
 * [catch-a-movie](https://github.com/ragmha/catch-a-movie) - List of latest movies
 
 ----
