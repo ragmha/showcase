@@ -124,6 +124,8 @@ Create & Delete posts with firebase & thunks
 
 * [blog2](https://github.com/ragmha/blog2) - Dynamic forms using redux-form and thunks
 
+* [weather](https://github.com/ragmha/rf-weather) - Simple Forms using redux-form and sagas
+
 ## React-Redux-Reselect
 
 * [posts2](https://github.com/ragmha/posts2) - Selecting computed derived posts using reselect
