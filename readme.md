@@ -168,6 +168,8 @@ Create & Delete posts with firebase & thunks
 
 * [weather-station](https://github.com/ragmha/weather-station) - Weather station connected to azure
 
+* [dang-thats-delicious](https://github.com/ragmha/dang-thats-delicious) - Resturant App 
+
 ----
 ----
 
